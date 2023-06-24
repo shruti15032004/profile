@@ -6,7 +6,7 @@ favicon: /-/shruti15032004.github.io/profile/favicon.ico
 -- fastn.dependency: fastn-community.github.io/doc-site as doc-site
 -- fastn.dependency: fastn-community.github.io/footer
 -- fastn.dependency: fastn-community.github.io/roboto-typography
--- fastn.dependency: fastn-community.github.io/opensans-typography as opensans
+-- fastn.dependency: fastn-community.github.io/opensans-typography
 
 -- fastn.auto-import: shruti15032004.github.io/profile/FASTN/ds
 -- fastn.auto-import: shruti15032004.github.io/profile/assets

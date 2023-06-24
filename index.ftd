@@ -120,7 +120,7 @@ role: $inherited.types.copy-regular
 
 
 -- ftd.background-image bg-image:
-src: $assets.files.assets.unsplash.jpg
+src: $assets.files.assets.shruti.jpeg
 repeat: no-repeat
 position: center
 size: cover
